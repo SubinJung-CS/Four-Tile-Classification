@@ -9,4 +9,4 @@ In this project, the image dataset named CIFARTile presented by CVPR-NAS is used
 
 To improve model's performance, preprocessing - such as normalisation, scaling, one-hot encoding and data augmentaion -, and hyper-parameter tuning and early-stopping methods are conducted. Additionally, assessment is implemented by the accuracy & loss graph and confusion matrix.
 
-The details can be found in the report uploaded on the repository.
+The details can be found in the report uploaded in the repository.
